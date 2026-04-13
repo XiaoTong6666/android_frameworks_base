@@ -1,4 +1,4 @@
-package android.security.keybox;
+package com.android.internal.security.keybox;
 
 parcelable AttestationCertificates {
     byte[] privateKey;
